@@ -1,2 +1,2 @@
-# ProyectoRythmo
- Videojuego de Rythmo
+# ByRithmo
+ Videojuego de ritmo y puzzles.
